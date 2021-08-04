@@ -8,7 +8,7 @@ Use this template to bootstrap the creation of a JavaScript action.:rocketgggggg
 vxcvcxxvcxx
 This template includes compilication support, tests, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
 cdddd
-If you are new, gfgfdgdfthere's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
+If you are new, gfgfdgdfthegdfgfdgdfgre's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
 
 ## Create an action from this template
 
