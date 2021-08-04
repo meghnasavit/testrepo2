@@ -16,7 +16,7 @@ Click the `Use this Template` anddddsdsfds
 
 Install the dependencies  
 ```bash
-$ npm install
+$ npm installxsxss
 ```
 ggggggg
 Build the typescript and package it for distribution
