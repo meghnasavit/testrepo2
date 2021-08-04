@@ -6,7 +6,7 @@
 vvvvvvvvvv
 Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocketggggggggggggg:
 
-This template includes compilication support, tests, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
+This template includes compilication support, tedddsssts, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
 cddddggfgfhfghfghgf hub.com/actions/hello-world-javascript-action)
 
 ## Create an action from this template
