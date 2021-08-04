@@ -4,7 +4,7 @@
 
 # Create a JavaScript Action using TypeScript
 
-Use this template to bootstrap the creation of a JavaScript action.:rocketggggggggggggg:
+Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocketggggggggggggg:
 
 This template includes compilication support, tests, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
 cdddd
