@@ -11,8 +11,7 @@ cddddggfgfhfghfghgf hub.com/actions/hello-world-javascript-action)
 xsdsdsdsdsd
 ## Create an action from this template
 
-Click the `Use this Template` and provide the new repcoooooooo details for your action
-
+Click the `Use this Template` anddddsdsfds
 ## Code in Master
 
 Install the dependencies  
