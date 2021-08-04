@@ -3,7 +3,7 @@
 </p>
 
 # Create a JavaScript Action using TypeScript
-vvvvvvvvvv
+vvvvvvvvvvaaaaaaaa
 Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocketggggggggggggg:
 
 This template includes compilication support, tedddsssts, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
