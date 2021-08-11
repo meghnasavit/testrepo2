@@ -9,7 +9,7 @@ bccccc
 This template includes compilication support, tedddsssts, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
 cddddggfgfhfghfghgf hub.com/actions/hello-world-javascript-action)
 xsdsdsdsdsd
-## Create an action from this templatefdfddddssccccccxxxzxzxzxxz
+## Create an action from this template
 sssasaaddddddd
 Click the `Use this Template` anddddsdsfds
 ## Code in Master
