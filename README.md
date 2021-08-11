@@ -4,7 +4,7 @@
 
 # Create a JavaScript Action using TypeScript
 vvvvvvvvvvaaaaaaaa
-Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocketggggggggggggg:
+Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocket
 bccccc
 This template includes compilication support, tedddsssts, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
 cddddggfgfhfghfghgf hub.com/actions/hello-world-javascript-action)
