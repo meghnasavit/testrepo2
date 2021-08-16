@@ -9,7 +9,7 @@ Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rock
 
 ## Create an action from this template
 
-Click the `Use this Template` anddddsdsfds
+Click the `Use this Template` 
 ## Code in Master
 czzxx
 Install the dependencies  
