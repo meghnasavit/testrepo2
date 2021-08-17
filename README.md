@@ -6,7 +6,7 @@
 
 Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocket
 
-
+xxxx
 ## Create an action from this template
 
 Click the `Use this Template` 
