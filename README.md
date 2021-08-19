@@ -11,7 +11,7 @@ Use this template to bootstrap the creation of a JavaScript action.:rocket
 
 Click the `Use this Template` 
 ## Code in Master
-czzxx
+czzxxddd
 Install the dependencies  
 ```bash
 $ npm installxsxss
