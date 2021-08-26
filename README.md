@@ -8,7 +8,7 @@ Use mplate to bootstrap the creation of a JavaScript action.:rocket
 
 
 ## Create an action from this template
-ccccc
+
 Click the `Use this Template` 
 ## Code in Master
 czzxx
