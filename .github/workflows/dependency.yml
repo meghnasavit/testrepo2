@@ -12,7 +12,7 @@ jobs:
       - name: log some info
         run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: run an update
-        run : npm update minimist
+        run : npm install minimist
       - name: run my-precious
         run : npx my-precious
       - name: show changes
