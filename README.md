@@ -4,23 +4,19 @@
 
 # Create a JavaScript Action using TypeScript
 
-Use this template to bootstrap the creation of a JavaScript action.:rocketggggggggggggg:
-vxcvcxxvcxx
-This template includes compilication support, tests, a validation wofdfsdfsdfdsfrkflow, publishing, and versioning guidance.  
-cdddd
-If you are new, gfgfdgdfthegdfgfdgdfgre's also a simpler introduction.  See the [Hello World JavaScript Action](https://github.com/actions/hello-world-javascript-action)
+Use this template to bootstrap the creation of axxxxxxxx JavaScript action.:rocket
+bccccc
 
 ## Create an action from this template
 
-Click the `Use this Template` and provide the new repcoooooooo details for your action
-
+Click the `Use this Template` 
 ## Code in Master
-
+czzxx
 Install the dependencies  
 ```bash
-$ npm install
+$ npm installxsxss
 ```
-
+ggggggg
 Build the typescript and package it for distribution
 ```bash
 $ npm run build && npm run pack
