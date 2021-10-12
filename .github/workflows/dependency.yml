@@ -17,3 +17,8 @@ jobs:
         run : npx my-precious
       - name: show changes
         run : git status
+      - name: stage changes
+        run : git add .
+      - name: commit changes
+        run : git commit -m "dependancy changes"
+        
