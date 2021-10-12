@@ -8,6 +8,9 @@ jobs:
   dependabot:
     runs-on: ubuntu-latest
     steps:
+      - name: log some info
+        run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
       - name: Dependabot metadata
         id: metadata
         uses: dependabot/fetch-metadata@v1.1.1
