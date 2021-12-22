@@ -15,8 +15,7 @@ czzxx
 Install the dependencies  
 ```bash
 $ npm installxsxss
-```
-Build the typescript and package it for distribution
+```cript and package it for distribution
 ```bash
 $ npm run build && npm run pack
 ```
