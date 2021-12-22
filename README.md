@@ -11,7 +11,7 @@ Use mplate to bootstrap the creation of a JavaScript action.:rocket
 
 Click the `Use this Template` 
 ## Code in Master
-czzxx
+czzxxsd
 Install the dependencies  
 ```bash
 $ npm installxsxss
