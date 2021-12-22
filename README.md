@@ -14,14 +14,7 @@ Click the `Use this Template`
 czzxx
 Install the dependencies  
 ```bash
-$ npm installxsxss
-```
-Build the typescript and package it for distribution
-```bash
-$ npm run build && npm run pack
-```
-
-Run the tests :heavy_check_mark:  
+$ npm installx
 ```bash
 $ npm test
 
