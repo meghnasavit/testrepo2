@@ -28,7 +28,7 @@ Run the tests :heavy_check_mark:
 
 ## Change action.yml
 
-The action.yml contains defines the inputs and output for your action.
+The action.yml contains defines the inputs and output for your ac
 
 Update the action.yml with your name, description, inputs and outputs for your action.
 
