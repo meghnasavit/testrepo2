@@ -18,8 +18,6 @@ $ npm run build && npm run pack
 
 Run the tests :heavy_check_mark:  
 ```bash
-$ npm test
-
  PASS  ./index.test.js
   ✓ throws invalid number (3ms)
   ✓ wait 500 ms (504ms)
