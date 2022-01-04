@@ -10,9 +10,7 @@ Use mplate to bootstrap the creation of a JavaScript action.:rocket
 ## Create an action from this template
 
 Click the `Use this Template` 
-## Code in Master
-Build the typescript and package it for distribution
-```bash
+## Code i
 $ npm run build && npm run pack
 ```
 
