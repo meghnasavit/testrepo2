@@ -14,12 +14,7 @@ Click the `Use this Template`
 ```
 
 ## Change action.yml
-
-The action.yml contains defines the inputs and output for your action.
-
-Update the action.yml with your name, description, inputs and outputs for your action.
-
-See the [documentation](https://help.github.com/en/articles/metadata-syntax-for-github-actions)
+ata-syntax-for-github-actions)
 
 ## Change the Code
 
