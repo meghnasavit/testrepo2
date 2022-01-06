@@ -20,7 +20,6 @@ Run the tests :heavy_check_mark:
 ```bash
  PASS  ./index.test.js
   ✓ throws invalid number (3ms)
-  ✓ wait 500 ms (504ms)
   ✓ test runs (95ms)
 
 ...
