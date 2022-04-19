@@ -5,7 +5,7 @@
 # Create a JavaScript Action using TypeScript
 
 Use mplate to bootstrap the creation of a JavaScript action.:rocket
-
+xasxsxas
 
 ## Create an action from this template
 
