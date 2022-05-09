@@ -28,7 +28,7 @@ Most toolkit and CI/CD operations involve async operations so the action is run 
 ```javascriptsdsad
 import * as core from '@actions/core';
 ...
-
+dsas
 async function run() {
   try { 
       ...
