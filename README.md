@@ -22,7 +22,7 @@ $ npm run build && npm run pack
 ```
 
 Run the tests :heavy_check_mark:  
-```bash
+```bashfdsfdsf
 $ npm testgfgfdgd
 
  PASS  ./index.test.js
