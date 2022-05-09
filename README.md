@@ -25,7 +25,7 @@ See the [documentation](https://help.github.com/en/articles/metadata-syntax-for-
 
 Most toolkit and CI/CD operations involve async operations so the action is run in an async function.
 
-```javascriptsdsad
+```javascriptsdsadxsaxa
 import * as core from '@actions/core';
 ...
 
