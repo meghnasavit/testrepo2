@@ -6,8 +6,7 @@
 fsdfsd
 Use mplate to bootstrap the creation of a JavaScript action.:rocket
 
-
-## Create an action from this template
+vsfdbvdfggfdfdbbdg
 
 Click the `Use this Template` 
 ## C
