@@ -10,8 +10,7 @@ Use mplate to bootstrap the creation of a JavaScript action.:rocket
 ## Create an action from this template
 
 Click the `Use this Template` 
-## C
-```cdscds
+## 
 
 ## Change action.yml
 
