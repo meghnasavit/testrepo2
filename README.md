@@ -2,16 +2,7 @@
   <a href="https://github.com/actions/typescript-action/actions"><img alt="typescript-action status" src="https://github.com/actions/typescript-action/workflows/build-test/badge.svg"></a>
 </p>
 
-# Create a JavaScript Action using TypeScript
-fsdfsd
-Use mplate to bootstrap the creation of a JavaScript action.:rocket
 
-
-## Create an action from this template
-
-Click the `Use this Template` 
-## C
-```cdscds
 
 ## Change action.yml
 
