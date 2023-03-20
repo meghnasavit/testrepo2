@@ -30,3 +30,6 @@ jobs:
         run: echo "$GITHUB_CONTEXT"
              echo "$GITHUB_JOB"
              echo "$GITHUB_ACTION"
+      - name: vsfvfdvfd
+        run: echo "steps"
+     
