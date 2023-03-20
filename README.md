@@ -3,35 +3,15 @@
 </p>
 
 # Create a JavaScript Action using TypeScript
-
+fsdfsd
 Use mplate to bootstrap the creation of a JavaScript action.:rocket
 
 
 ## Create an action from this template
 
-Click the `Use this Template` 
-## Code in Master
-czzxx
-Install the dependencies  
-```bash
-$ npm installxsxss
-```
-Build the typescript and package it for distribution
-```bash
-$ npm run build && npm run pack
-```
-
-Run the tests :heavy_check_mark:  
-```bash
-$ npm test
-
- PASS  ./index.test.js
-  ✓ throws invalid number (3ms)
-  ✓ wait 500 ms (504ms)
-  ✓ test runs (95ms)
-
-...
-```
+Click the `Use this Template` cdscs
+## C
+```cdscds c dfvfdf
 
 ## Change action.yml
 
@@ -45,10 +25,10 @@ See the [documentation](https://help.github.com/en/articles/metadata-syntax-for-
 
 Most toolkit and CI/CD operations involve async operations so the action is run in an async function.
 
-```javascript
+```javascriptsdsad
 import * as core from '@actions/core';
 ...
-
+dsas
 async function run() {
   try { 
       ...

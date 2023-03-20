@@ -1,0 +1,24 @@
+name: Dependabot auto-approve
+on: pull_request_target
+
+permissions:
+  pull-requests: write
+
+jobs:
+  dependabot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: log some info
+        run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: run an update
+        run : npm install minimist
+      - name: run my-precious
+        run : npx my-precious
+      - name: show changes
+        run : git status
+      - name: stage changes
+        run : git add .
+      - name: commit changes
+        run : git commit -m "dependancy changes"
+        
